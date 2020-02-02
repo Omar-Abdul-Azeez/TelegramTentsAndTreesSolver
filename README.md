@@ -1,5 +1,5 @@
 # TelegramTentsAndTreesSolver
- This is just a code i made to solve Telegram's [@gamee](https://telegram.me/gamee) Tents and Trees game
+ This is just a code i made to solve Telegram's [@gamee](https://telegram.me/gamee)'s Tents and Trees game
  because i was too lazy to actually think of a solution... only to think
  how to solve it in code. how dumb xD
 
