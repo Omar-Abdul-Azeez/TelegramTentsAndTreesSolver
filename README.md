@@ -17,7 +17,8 @@
  a space and then the y coordinate then press enter to input another tree's coordinates.
  when done, press enter without putting any coordinates.
 
-PS: This is not complete... i'm planning to add trial and error if all else fails
+# Notes:
+This is not complete... i'm planning to add trial and error if all else fails
 and only then it will be complete. However, it won't be optimized in the slightest.
 
 You are welcomed to edit/optimize any part of the code if you want. And also if you notice
