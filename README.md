@@ -22,4 +22,4 @@ This is not complete... i'm planning to add trial and error if all else fails
 and only then it will be complete. However, it won't be optimized in the slightest.
 
 You are welcomed to edit/optimize any part of the code if you want. And also if you notice
-any issues or bugs, Feel free to open an issue. Apart from that anything else will be ignored.
+any issues or bugs, Feel free to open an issue.
