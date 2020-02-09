@@ -125,13 +125,14 @@ while True:
             break
 
     # If we enter here, this means we'll have to go for trial and error
-    while len(confirmed) != tents:
+    if len(confirmed) != tents:
         # Sorry, but this isn't finished
-        break
+        pass
 
     if len(confirmed) > 0:
         print("Confirmed locations:")
         print(confirmed)
+    # Supposedly useless when it's complete but let's just leave it
     if len(confirmed) != tents:
         print("Unconfirmed locations:")
         print(slots)
